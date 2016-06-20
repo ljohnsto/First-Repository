@@ -1,2 +1,2 @@
 # First-Repository
-THis is a Rails App
+This is a Rails App
